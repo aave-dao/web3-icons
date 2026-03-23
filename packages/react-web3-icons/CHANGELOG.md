@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.62.0](https://github.com/bgd-labs/web3-icons/compare/react-web3-icons@v1.61.0...react-web3-icons@v1.62.0) (2026-03-23)
+
+
+### Features
+
+* add eurm, solvbtc and wmnt icons ([aea50eb](https://github.com/bgd-labs/web3-icons/commit/aea50ebab0f1374538572ba6b0638bf1f9e3b906))
+
 ## [1.61.0](https://github.com/bgd-labs/web3-icons/compare/react-web3-icons@v1.60.0...react-web3-icons@v1.61.0) (2026-02-09)
 
 

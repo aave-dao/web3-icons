@@ -1195,6 +1195,34 @@
     "type": [
       "asset"
     ],
+    "symbol": "eurm",
+    "name": "Monerium EUR Money",
+    "aliases": [
+      "EURm",
+      "aEURm",
+      "variableDebtEURm"
+    ],
+    "variations": [
+      "aToken",
+      "stataToken"
+    ],
+    "icons": {
+      "mono": "icons/mono/eurm.svg",
+      "full": "icons/full/eurm.svg",
+      "aToken": {
+        "mono": "icons/mono/aeurm.svg",
+        "full": "icons/full/aeurm.svg"
+      },
+      "stataToken": {
+        "mono": "icons/mono/stataeurm.svg",
+        "full": "icons/full/stataeurm.svg"
+      }
+    }
+  },
+  {
+    "type": [
+      "asset"
+    ],
     "symbol": "eurs",
     "name": "STASIS EURS Token",
     "aliases": [
@@ -3223,6 +3251,34 @@
   },
   {
     "type": [
+      "asset"
+    ],
+    "symbol": "solvbtc",
+    "name": "SolvBTC",
+    "aliases": [
+      "SolvBTC",
+      "aSolvBTC",
+      "variableDebtSolvBTC"
+    ],
+    "variations": [
+      "aToken",
+      "stataToken"
+    ],
+    "icons": {
+      "mono": "icons/mono/solvbtc.svg",
+      "full": "icons/full/solvbtc.svg",
+      "aToken": {
+        "mono": "icons/mono/asolvbtc.svg",
+        "full": "icons/full/asolvbtc.svg"
+      },
+      "stataToken": {
+        "mono": "icons/mono/statasolvbtc.svg",
+        "full": "icons/full/statasolvbtc.svg"
+      }
+    }
+  },
+  {
+    "type": [
       "chain"
     ],
     "chainId": 1868,
@@ -4389,6 +4445,34 @@
       "stataToken": {
         "mono": "icons/mono/statawmatic.svg",
         "full": "icons/full/statawmatic.svg"
+      }
+    }
+  },
+  {
+    "type": [
+      "asset"
+    ],
+    "symbol": "wmnt",
+    "name": "Wrapped Mantle",
+    "aliases": [
+      "WMNT",
+      "aWMNT",
+      "variableDebtWMNT"
+    ],
+    "variations": [
+      "aToken",
+      "stataToken"
+    ],
+    "icons": {
+      "mono": "icons/mono/wmnt.svg",
+      "full": "icons/full/wmnt.svg",
+      "aToken": {
+        "mono": "icons/mono/awmnt.svg",
+        "full": "icons/full/awmnt.svg"
+      },
+      "stataToken": {
+        "mono": "icons/mono/statawmnt.svg",
+        "full": "icons/full/statawmnt.svg"
       }
     }
   },

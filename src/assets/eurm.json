@@ -1,0 +1,8 @@
+{
+  "type": ["asset"],
+  "symbol": "eurm",
+  "name": "Monerium EUR Money",
+
+  "aliases": ["EURm", "aEURm", "variableDebtEURm"],
+  "variations": ["aToken", "stataToken"]
+}

@@ -1,0 +1,8 @@
+{
+  "type": ["asset"],
+  "symbol": "wmnt",
+  "name": "Wrapped Mantle",
+
+  "aliases": ["WMNT", "aWMNT", "variableDebtWMNT"],
+  "variations": ["aToken", "stataToken"]
+}

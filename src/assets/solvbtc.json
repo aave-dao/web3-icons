@@ -1,0 +1,8 @@
+{
+  "type": ["asset"],
+  "symbol": "solvbtc",
+  "name": "SolvBTC",
+
+  "aliases": ["SolvBTC", "aSolvBTC", "variableDebtSolvBTC"],
+  "variations": ["aToken", "stataToken"]
+}

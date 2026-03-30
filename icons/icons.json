@@ -4480,6 +4480,34 @@
     "type": [
       "asset"
     ],
+    "symbol": "wokb",
+    "name": "Wrapped OKB",
+    "aliases": [
+      "WOKB",
+      "aWOKB",
+      "variableDebtWOKB"
+    ],
+    "variations": [
+      "aToken",
+      "stataToken"
+    ],
+    "icons": {
+      "mono": "icons/mono/wokb.svg",
+      "full": "icons/full/wokb.svg",
+      "aToken": {
+        "mono": "icons/mono/awokb.svg",
+        "full": "icons/full/awokb.svg"
+      },
+      "stataToken": {
+        "mono": "icons/mono/statawokb.svg",
+        "full": "icons/full/statawokb.svg"
+      }
+    }
+  },
+  {
+    "type": [
+      "asset"
+    ],
     "symbol": "wone",
     "name": "Wrapped Harmony",
     "aliases": [
@@ -4667,6 +4695,62 @@
     "type": [
       "asset"
     ],
+    "symbol": "xbeth",
+    "name": "OKX Wrapped Staked ETH",
+    "aliases": [
+      "xBETH",
+      "axBETH",
+      "variableDebtxBETH"
+    ],
+    "variations": [
+      "aToken",
+      "stataToken"
+    ],
+    "icons": {
+      "mono": "icons/mono/xbeth.svg",
+      "full": "icons/full/xbeth.svg",
+      "aToken": {
+        "mono": "icons/mono/axbeth.svg",
+        "full": "icons/full/axbeth.svg"
+      },
+      "stataToken": {
+        "mono": "icons/mono/stataxbeth.svg",
+        "full": "icons/full/stataxbeth.svg"
+      }
+    }
+  },
+  {
+    "type": [
+      "asset"
+    ],
+    "symbol": "xbtc",
+    "name": "OKX Wrapped BTC",
+    "aliases": [
+      "xBTC",
+      "axBTC",
+      "variableDebtxBTC"
+    ],
+    "variations": [
+      "aToken",
+      "stataToken"
+    ],
+    "icons": {
+      "mono": "icons/mono/xbtc.svg",
+      "full": "icons/full/xbtc.svg",
+      "aToken": {
+        "mono": "icons/mono/axbtc.svg",
+        "full": "icons/full/axbtc.svg"
+      },
+      "stataToken": {
+        "mono": "icons/mono/stataxbtc.svg",
+        "full": "icons/full/stataxbtc.svg"
+      }
+    }
+  },
+  {
+    "type": [
+      "asset"
+    ],
     "symbol": "xdai",
     "name": "XDAI",
     "aliases": [
@@ -4702,6 +4786,34 @@
   },
   {
     "type": [
+      "asset"
+    ],
+    "symbol": "xeth",
+    "name": "OKX Wrapped ETH",
+    "aliases": [
+      "xETH",
+      "axETH",
+      "variableDebtxETH"
+    ],
+    "variations": [
+      "aToken",
+      "stataToken"
+    ],
+    "icons": {
+      "mono": "icons/mono/xeth.svg",
+      "full": "icons/full/xeth.svg",
+      "aToken": {
+        "mono": "icons/mono/axeth.svg",
+        "full": "icons/full/axeth.svg"
+      },
+      "stataToken": {
+        "mono": "icons/mono/stataxeth.svg",
+        "full": "icons/full/stataxeth.svg"
+      }
+    }
+  },
+  {
+    "type": [
       "chain"
     ],
     "chainId": 196,
@@ -4709,6 +4821,34 @@
     "icons": {
       "mono": "icons/mono/xlayer.svg",
       "full": "icons/full/xlayer.svg"
+    }
+  },
+  {
+    "type": [
+      "asset"
+    ],
+    "symbol": "xoksol",
+    "name": "OKX Wrapped Staked SOL",
+    "aliases": [
+      "xOKSOL",
+      "axOKSOL",
+      "variableDebtxOKSOL"
+    ],
+    "variations": [
+      "aToken",
+      "stataToken"
+    ],
+    "icons": {
+      "mono": "icons/mono/xoksol.svg",
+      "full": "icons/full/xoksol.svg",
+      "aToken": {
+        "mono": "icons/mono/axoksol.svg",
+        "full": "icons/full/axoksol.svg"
+      },
+      "stataToken": {
+        "mono": "icons/mono/stataxoksol.svg",
+        "full": "icons/full/stataxoksol.svg"
+      }
     }
   },
   {
@@ -4734,6 +4874,34 @@
       "stataToken": {
         "mono": "icons/mono/stataxpl.svg",
         "full": "icons/full/stataxpl.svg"
+      }
+    }
+  },
+  {
+    "type": [
+      "asset"
+    ],
+    "symbol": "xsol",
+    "name": "OKX Wrapped SOL",
+    "aliases": [
+      "xSOL",
+      "axSOL",
+      "variableDebtxSOL"
+    ],
+    "variations": [
+      "aToken",
+      "stataToken"
+    ],
+    "icons": {
+      "mono": "icons/mono/xsol.svg",
+      "full": "icons/full/xsol.svg",
+      "aToken": {
+        "mono": "icons/mono/axsol.svg",
+        "full": "icons/full/axsol.svg"
+      },
+      "stataToken": {
+        "mono": "icons/mono/stataxsol.svg",
+        "full": "icons/full/stataxsol.svg"
       }
     }
   },

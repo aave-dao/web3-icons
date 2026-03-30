@@ -1,0 +1,8 @@
+{
+  "type": ["asset"],
+  "symbol": "wokb",
+  "name": "Wrapped OKB",
+
+  "aliases": ["WOKB", "aWOKB", "variableDebtWOKB"],
+  "variations": ["aToken", "stataToken"]
+}

@@ -1,0 +1,8 @@
+{
+  "type": ["asset"],
+  "symbol": "xeth",
+  "name": "OKX Wrapped ETH",
+
+  "aliases": ["xETH", "axETH", "variableDebtxETH"],
+  "variations": ["aToken", "stataToken"]
+}

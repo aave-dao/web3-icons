@@ -1,0 +1,8 @@
+{
+  "type": ["asset"],
+  "symbol": "xoksol",
+  "name": "OKX Wrapped Staked SOL",
+
+  "aliases": ["xOKSOL", "axOKSOL", "variableDebtxOKSOL"],
+  "variations": ["aToken", "stataToken"]
+}

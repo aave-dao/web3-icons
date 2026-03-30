@@ -1,0 +1,8 @@
+{
+  "type": ["asset"],
+  "symbol": "xbtc",
+  "name": "OKX Wrapped BTC",
+
+  "aliases": ["xBTC", "axBTC", "variableDebtxBTC"],
+  "variations": ["aToken", "stataToken"]
+}

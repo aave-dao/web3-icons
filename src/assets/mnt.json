@@ -1,0 +1,8 @@
+{
+  "type": ["asset"],
+  "symbol": "mnt",
+  "name": "MNT",
+
+  "aliases": ["MNT"],
+  "variations": ["aToken", "stataToken"]
+}

@@ -2322,6 +2322,32 @@
   },
   {
     "type": [
+      "asset"
+    ],
+    "symbol": "mnt",
+    "name": "MNT",
+    "aliases": [
+      "MNT"
+    ],
+    "variations": [
+      "aToken",
+      "stataToken"
+    ],
+    "icons": {
+      "mono": "icons/mono/mnt.svg",
+      "full": "icons/full/mnt.svg",
+      "aToken": {
+        "mono": "icons/mono/amnt.svg",
+        "full": "icons/full/amnt.svg"
+      },
+      "stataToken": {
+        "mono": "icons/mono/statamnt.svg",
+        "full": "icons/full/statamnt.svg"
+      }
+    }
+  },
+  {
+    "type": [
       "chain"
     ],
     "chainId": 80001,

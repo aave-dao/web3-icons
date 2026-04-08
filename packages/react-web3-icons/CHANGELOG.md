@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.64.0](https://github.com/bgd-labs/web3-icons/compare/react-web3-icons@v1.63.0...react-web3-icons@v1.64.0) (2026-04-08)
+
+
+### Features
+
+* add MNT icon ([cc5dd3b](https://github.com/bgd-labs/web3-icons/commit/cc5dd3bd3d3bf7e08eeeb32068c826cd80a01ef8))
+
 ## [1.63.0](https://github.com/bgd-labs/web3-icons/compare/react-web3-icons@v1.62.0...react-web3-icons@v1.63.0) (2026-03-30)
 
 

@@ -1,0 +1,61 @@
+apps/docs/src/components/WalletIconCard.tsx
+  h_739c25e72c37fb 3-5
+packages/react-web3-icons/package.json
+  h_739c25e72c37fb 2
+  s_1d1da51175b172::t_4dfbd29d325d93 27,30,32
+.github/workflows/release-please.yml
+  h_739c25e72c37fb 28
+apps/docs/src/components/ChainIconCard.tsx
+  h_739c25e72c37fb 3-6
+apps/docs/package.json
+  h_739c25e72c37fb 2,38
+  s_1d1da51175b172::t_40995f28bfd0b6 25,28,30
+.prettierrc
+  s_1d1da51175b172::t_391cd358f6becb 1
+apps/docs/src/components/BrandIconCard.tsx
+  h_739c25e72c37fb 3-6
+apps/docs/src/app/page.tsx
+  s_1d1da51175b172::t_02d77123797dc3 26
+apps/docs/src/components/IconCard.tsx
+  h_739c25e72c37fb 3
+package.json
+  h_739c25e72c37fb 2
+  s_1d1da51175b172::t_4479a1622770e6 27,30,32
+src/utils/helperFunctions.ts
+  h_739c25e72c37fb 25,301
+packages/react-web3-icons/README.md
+  h_739c25e72c37fb 7,9,11,28-32,51-52,69,85,98,100
+apps/docs/src/app/layout.tsx
+  h_739c25e72c37fb 1
+README.md
+  h_739c25e72c37fb 2,8,12-14,16-18,20-21,24,28,34,39,41,53,55,67,69,81,83,87,94,99,101,105,113,118,120,124,139,141,149,155-156
+apps/docs/src/components/InstalledWalletIcon.tsx
+  h_739c25e72c37fb 3-4
+packages/react-web3-icons/src/constants.ts
+  h_739c25e72c37fb 2
+apps/docs/src/components/AssetIconCard.tsx
+  h_739c25e72c37fb 3-5
+apps/docs/src/app/icon/[iconSymbol]/page.tsx
+  s_1d1da51175b172::t_0cc69ba9bdd505 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "66dfc5045cee2f982bda4215ff0ba11c9734c81b",
+  "prompts": {},
+  "humans": {
+    "h_739c25e72c37fb": {
+      "author": "DhairyaSethi <55102840+DhairyaSethi@users.noreply.github.com>"
+    }
+  },
+  "sessions": {
+    "s_1d1da51175b172": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "63f21b87-bf1c-4d42-9c77-a90d0401719e",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    }
+  }
+}

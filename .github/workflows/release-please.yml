@@ -19,12 +19,10 @@ jobs:
         with:
           release-type: node
           package-name: react-web3-icons
-          pull-request-header: "I have created a release"
+          pull-request-header: 'I have created a release'
           path: packages/react-web3-icons
           monorepo-tags: true
-          tag-separator: "@"
+          tag-separator: '@'
 
   release-node:
     uses: aave-dao/web3-icons/.github/workflows/release-node.yml@main
-    secrets:
-      NODE_AUTH_TOKEN: ${{ secrets.NODE_AUTH_TOKEN }}

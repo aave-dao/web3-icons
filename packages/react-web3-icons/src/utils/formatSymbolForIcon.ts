@@ -67,10 +67,11 @@ export function formatSymbolForIcon({
     return assetsAliases[symbol.toLowerCase()];
   if (/\.e/.test(symbol)) return symbol.replace(".e", "").toLowerCase();
   if (/m\./.test(symbol)) return symbol.replace("m.", "").toLowerCase();
-  if (marketPrefix)
+  if (marketPrefix) {
     return unPrefixSymbol(
       (symbolsMap || SYMBOLS_MAP)[symbol] || symbol,
       marketPrefix,
     ).toLowerCase();
+  }
   return ((symbolsMap || SYMBOLS_MAP)[symbol] || symbol).toLowerCase();
 }

@@ -1,0 +1,26 @@
+.github/workflows/release-please.yml
+  s_1d1da51175b172::t_c61ede70723730 9
+packages/react-web3-icons/src/components/Base/GithubSVGIcon.tsx
+  h_739c25e72c37fb 29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "0fa4ae3d3a4dd5333dd6b4fe01de8f0efefb6e19",
+  "prompts": {},
+  "humans": {
+    "h_739c25e72c37fb": {
+      "author": "DhairyaSethi <55102840+DhairyaSethi@users.noreply.github.com>"
+    }
+  },
+  "sessions": {
+    "s_1d1da51175b172": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "63f21b87-bf1c-4d42-9c77-a90d0401719e",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "DhairyaSethi <55102840+DhairyaSethi@users.noreply.github.com>"
+    }
+  }
+}

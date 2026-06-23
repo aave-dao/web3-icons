@@ -1,0 +1,14 @@
+.github/workflows/release-node.yml
+  h_739c25e72c37fb 24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "283d0535feac54da2e8ad1f4087f4743afd71f4d",
+  "prompts": {},
+  "humans": {
+    "h_739c25e72c37fb": {
+      "author": "DhairyaSethi <55102840+DhairyaSethi@users.noreply.github.com>"
+    }
+  }
+}

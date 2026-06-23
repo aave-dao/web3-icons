@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.52.1](https://github.com/aave-dao/web3-icons/compare/react-web3-icons@v1.52.0...react-web3-icons@v1.52.1) (2026-06-23)
+
+
+### Bug Fixes
+
+* release perms ([#9](https://github.com/aave-dao/web3-icons/issues/9)) ([fcf82db](https://github.com/aave-dao/web3-icons/commit/fcf82dbe0450de245cba9a1fe0260b1d55830f3a))
+* release workflow ([#8](https://github.com/aave-dao/web3-icons/issues/8)) ([c1eb19a](https://github.com/aave-dao/web3-icons/commit/c1eb19ad2ad6a49a18a50b3faca68ec64c4bace0))
+
 ## [1.52.0](https://github.com/aave-dao/web3-icons/compare/react-web3-icons@v1.51.0...react-web3-icons@v1.52.0) (2026-06-23)
 
 

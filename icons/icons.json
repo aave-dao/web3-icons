@@ -2348,6 +2348,34 @@
   },
   {
     "type": [
+      "asset",
+      "chain"
+    ],
+    "symbol": "mon",
+    "chainId": 143,
+    "name": "Monad",
+    "aliases": [
+      "MON"
+    ],
+    "variations": [
+      "aToken",
+      "stataToken"
+    ],
+    "icons": {
+      "mono": "icons/mono/mon.svg",
+      "full": "icons/full/mon.svg",
+      "aToken": {
+        "mono": "icons/mono/amon.svg",
+        "full": "icons/full/amon.svg"
+      },
+      "stataToken": {
+        "mono": "icons/mono/statamon.svg",
+        "full": "icons/full/statamon.svg"
+      }
+    }
+  },
+  {
+    "type": [
       "chain"
     ],
     "chainId": 80001,

@@ -1,0 +1,9 @@
+{
+  "type": ["asset", "chain"],
+  "symbol": "mon",
+  "chainId": 143,
+  "name": "Monad",
+
+  "aliases": ["MON"],
+  "variations": ["aToken", "stataToken"]
+}

@@ -1,0 +1,46 @@
+icons/full/amon.svg
+  s_1d1da51175b172::t_430982abddeefa 1
+icons/mono/monad.svg
+  s_1d1da51175b172::t_430982abddeefa 1
+icons/full/mon.svg
+  s_1d1da51175b172::t_430982abddeefa 1
+src/assets/mon_mono.svg
+  s_1d1da51175b172::t_a688a7c59bbddf 1-2,4
+  s_1d1da51175b172::t_b44c21c28a2d0e 3,5
+icons/icons.json
+  s_1d1da51175b172::t_ac536278bf0f71 2351-2376
+icons/full/statamon.svg
+  s_1d1da51175b172::t_430982abddeefa 1
+src/assets/mon.json
+  s_1d1da51175b172::t_e07409cd2d8499 1-9
+icons/mono/amon.svg
+  s_1d1da51175b172::t_430982abddeefa 1
+icons/mono/mon.svg
+  s_1d1da51175b172::t_430982abddeefa 1
+src/assets/mon_full.svg
+  s_1d1da51175b172::t_25f34de0e50c41 1-2,4
+  s_1d1da51175b172::t_e14305cbcba124 3,5
+icons/mono/statamon.svg
+  s_1d1da51175b172::t_430982abddeefa 1
+src/utils/helperFunctions.ts
+  s_1d1da51175b172::t_e5b79c94616613 12,18-21,25,30-32
+  s_1d1da51175b172::t_23ea8c8152810a 234-242
+icons/full/monad.svg
+  s_1d1da51175b172::t_430982abddeefa 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "f65babc75857dd953cf5b650237d3e10511a540d",
+  "prompts": {},
+  "sessions": {
+    "s_1d1da51175b172": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "63f21b87-bf1c-4d42-9c77-a90d0401719e",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "DhairyaSethi <55102840+DhairyaSethi@users.noreply.github.com>"
+    }
+  }
+}

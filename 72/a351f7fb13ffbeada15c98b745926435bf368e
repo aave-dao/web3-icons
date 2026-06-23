@@ -1,0 +1,29 @@
+icons/mono/arc.svg
+  s_1d1da51175b172::t_73a39f532c3927 1
+icons/icons.json
+  s_1d1da51175b172::t_73a39f532c3927 198-209
+src/assets/arc_mono.svg
+  s_1d1da51175b172::t_54916a11299aa2 1-3
+src/assets/arc.json
+  s_1d1da51175b172::t_618add4dbfcce0 1-7
+src/assets/arc_full.svg
+  s_1d1da51175b172::t_bd1cb3103ef38e 1-4
+icons/full/arc.svg
+  s_1d1da51175b172::t_73a39f532c3927 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "72a351f7fb13ffbeada15c98b745926435bf368e",
+  "prompts": {},
+  "sessions": {
+    "s_1d1da51175b172": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "63f21b87-bf1c-4d42-9c77-a90d0401719e",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "DhairyaSethi <55102840+DhairyaSethi@users.noreply.github.com>"
+    }
+  }
+}

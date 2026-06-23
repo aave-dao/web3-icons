@@ -1,0 +1,52 @@
+apps/docs/package.json
+  h_739c25e72c37fb 2,38
+apps/docs/src/components/BrandIconCard.tsx
+  h_739c25e72c37fb 3-6
+README.md
+  h_739c25e72c37fb 10,12,14
+.github/workflows/release-please.yml
+  h_739c25e72c37fb 28
+apps/docs/src/app/layout.tsx
+  h_739c25e72c37fb 1
+packages/react-web3-icons/package.json
+  h_739c25e72c37fb 2
+apps/docs/src/components/ChainIconCard.tsx
+  h_739c25e72c37fb 3-6
+apps/docs/src/components/AssetIconCard.tsx
+  h_739c25e72c37fb 3-5
+apps/docs/src/components/IconCard.tsx
+  h_739c25e72c37fb 3
+src/utils/helperFunctions.ts
+  h_739c25e72c37fb 25,301
+apps/docs/src/components/InstalledWalletIcon.tsx
+  h_739c25e72c37fb 3-4
+packages/react-web3-icons/README.md
+  h_739c25e72c37fb 7,9,11,28-32,51-52,69,85,98,100
+apps/docs/src/components/WalletIconCard.tsx
+  h_739c25e72c37fb 3-5
+.prettierrc
+  s_1d1da51175b172::t_cbd48c78dee0ba 1
+package.json
+  h_739c25e72c37fb 2,27,30,32
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "4e7bcb3e32da0095323f17e884f414cb46ef71f1",
+  "prompts": {},
+  "humans": {
+    "h_739c25e72c37fb": {
+      "author": "DhairyaSethi <55102840+DhairyaSethi@users.noreply.github.com>"
+    }
+  },
+  "sessions": {
+    "s_1d1da51175b172": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "63f21b87-bf1c-4d42-9c77-a90d0401719e",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "DhairyaSethi <55102840+DhairyaSethi@users.noreply.github.com>"
+    }
+  }
+}

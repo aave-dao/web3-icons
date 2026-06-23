@@ -83,6 +83,7 @@ export type Web3IconType =
   | 'arbitrum'
   | 'arbitrumgoerli'
   | 'arbitrumsepolia'
+  | 'arc'
   | 'aren'
   | 'arenfil'
   | 'arep'

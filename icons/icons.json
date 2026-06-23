@@ -195,6 +195,20 @@
   },
   {
     "type": [
+      "asset"
+    ],
+    "symbol": "arc",
+    "name": "Arc",
+    "aliases": [
+      "ARC"
+    ],
+    "icons": {
+      "mono": "icons/mono/arc.svg",
+      "full": "icons/full/arc.svg"
+    }
+  },
+  {
+    "type": [
       "wallet"
     ],
     "identityFlag": "isAToken",

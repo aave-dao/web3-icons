@@ -3,9 +3,10 @@ name: release
 
 on:
   workflow_call:
-    secrets:
-      NODE_AUTH_TOKEN:
-        required: true
+  workflow_dispatch:
+
+permissions:
+  id-token: write
 
 jobs:
   release:

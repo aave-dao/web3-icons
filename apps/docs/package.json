@@ -1,5 +1,5 @@
 {
-  "name": "@bgd-labs/react-web3-icons-docs",
+  "name": "@aave-dao/react-web3-icons-docs",
   "description": "Gallery for easy export in svg of all assets icons from the package.",
   "version": "0.0.1",
   "author": "BGD labs",
@@ -22,12 +22,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bgd-labs/icons.git"
+    "url": "git+https://github.com/aave-dao/web3-icons.git"
   },
   "bugs": {
-    "url": "https://github.com/bgd-labs/icons/issues"
+    "url": "https://github.com/aave-dao/web3-icons/issues"
   },
-  "homepage": "https://github.com/bgd-labs/icons/blob/main/README.md",
+  "homepage": "https://github.com/aave-dao/web3-icons/blob/main/README.md",
   "scripts": {
     "build": "pnpm --filter react-web3-icons build && next build",
     "dev": "next dev",
@@ -35,7 +35,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "@bgd-labs/react-web3-icons": "workspace:^",
+    "@aave-dao/react-web3-icons": "workspace:^",
     "clsx": "^2.1.1",
     "framer-motion": "^11.11.10",
     "fuse.js": "^7.0.0",

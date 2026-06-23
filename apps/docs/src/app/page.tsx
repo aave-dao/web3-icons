@@ -23,7 +23,7 @@ export default function Home() {
           Explore icons
         </Link>
         <a
-          href="https://github.com/bgd-labs/icons"
+          href="https://github.com/aave-dao/web3-icons"
           target="_blank"
           rel="noreferrer"
           className="text-md group flex w-[160px] items-center justify-center gap-2 rounded border border-gray-300 py-3 font-semibold text-gray-800 transition hover:border-gray-900 hover:bg-gray-900 hover:text-white active:border-gray-300 active:bg-white active:text-gray-800"

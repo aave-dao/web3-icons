@@ -1,6 +1,6 @@
 "use client";
 
-import { Web3Icon } from "@bgd-labs/react-web3-icons";
+import { Web3Icon } from "@aave-dao/react-web3-icons";
 import { FC } from "react";
 
 import { IconLoader } from "@/components/IconCard";

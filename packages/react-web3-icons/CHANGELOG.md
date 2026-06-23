@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.51.0](https://github.com/aave-dao/web3-icons/compare/react-web3-icons@v1.50.0...react-web3-icons@v1.51.0) (2026-06-23)
+
+
+### Features
+
+* add monad icons ([#3](https://github.com/aave-dao/web3-icons/issues/3)) ([9caa4b9](https://github.com/aave-dao/web3-icons/commit/9caa4b9ec50d64c888ea617b613e4c4a190d92dd))
+
 ## [1.50.0](https://github.com/aave-dao/web3-icons/compare/react-web3-icons-v1.64.0...react-web3-icons@v1.50.0) (2026-06-23)
 
 

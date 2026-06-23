@@ -83,6 +83,7 @@ export { default as ArbIcon } from './ArbIcon';
 export { default as ArbitrumIcon } from './ArbitrumIcon';
 export { default as ArbitrumgoerliIcon } from './ArbitrumgoerliIcon';
 export { default as ArbitrumsepoliaIcon } from './ArbitrumsepoliaIcon';
+export { default as ArcIcon } from './ArcIcon';
 export { default as ArenIcon } from './ArenIcon';
 export { default as ArenfilIcon } from './ArenfilIcon';
 export { default as ArepIcon } from './ArepIcon';

@@ -87,6 +87,7 @@ export * from './build/icon-arb.icon';
 export * from './build/icon-arbitrum.icon';
 export * from './build/icon-arbitrumgoerli.icon';
 export * from './build/icon-arbitrumsepolia.icon';
+export * from './build/icon-arc.icon';
 export * from './build/icon-aren.icon';
 export * from './build/icon-arenfil.icon';
 export * from './build/icon-arep.icon';

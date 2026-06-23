@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.52.0](https://github.com/aave-dao/web3-icons/compare/react-web3-icons@v1.51.0...react-web3-icons@v1.52.0) (2026-06-23)
+
+
+### Features
+
+* arc ([#6](https://github.com/aave-dao/web3-icons/issues/6)) ([4621de6](https://github.com/aave-dao/web3-icons/commit/4621de6da9178b47cdd56c7841b4a1272aaa1367))
+
 ## [1.51.0](https://github.com/aave-dao/web3-icons/compare/react-web3-icons@v1.50.0...react-web3-icons@v1.51.0) (2026-06-23)
 
 

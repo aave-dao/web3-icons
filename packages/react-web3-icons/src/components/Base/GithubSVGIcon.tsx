@@ -26,9 +26,7 @@ const GithubSvgIcon: FC<GithubSVGIconProps> = ({
       const result = await fetch(githubSrc);
       const svg = await result.text();
 
-      if (!result.ok) {
-        throw new Error("Failed to load Github icon");
-      }
+      if (!result.ok) throw new Error("Failed to load Github icon");
 
       setSvgCode(svg);
     };

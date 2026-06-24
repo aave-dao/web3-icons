@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.52.2](https://github.com/aave-dao/web3-icons/compare/react-web3-icons@v1.52.1...react-web3-icons@v1.52.2) (2026-06-24)
+
+
+### Bug Fixes
+
+* strip whitespace from brand iconKey to match icon path ([666c4bb](https://github.com/aave-dao/web3-icons/commit/666c4bb7048dbceeb076f593007ca45e56cd9cf6))
+
 ## [1.52.1](https://github.com/aave-dao/web3-icons/compare/react-web3-icons@v1.52.0...react-web3-icons@v1.52.1) (2026-06-23)
 
 

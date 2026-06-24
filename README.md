@@ -148,7 +148,7 @@ pnpm generate
 To run docs website locally:
 
 ```bash
-pnpm --filter docs dev
+pnpm --filter "./apps/docs" dev
 ```
 
 ## Copyright

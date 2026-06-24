@@ -1,0 +1,19 @@
+packages/react-web3-icons/src/utils/getBrandInfo.ts
+  s_1d1da51175b172::t_07a670f4353f80 31
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.11",
+  "base_commit_sha": "84431d47cb94f365a8d3e17820ab57e3479e692a",
+  "prompts": {},
+  "sessions": {
+    "s_1d1da51175b172": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "63f21b87-bf1c-4d42-9c77-a90d0401719e",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "DhairyaSethi <55102840+DhairyaSethi@users.noreply.github.com>"
+    }
+  }
+}

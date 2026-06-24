@@ -28,6 +28,6 @@ export const getBrandIconNameAndPath = ({
   const name = getBrandName(brandKey?.toString() ?? "");
   return {
     iconPathToRepo: `${githubIconsPath}/icons/${mono ? IconVariant.Mono : IconVariant.Full}/${name.replace(/\s/g, "").toLowerCase()}.svg`,
-    iconKey: name.toLowerCase(),
+    iconKey: name.replace(/\s/g, "").toLowerCase(),
   };
 };

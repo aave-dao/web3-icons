@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.53.0](https://github.com/aave-dao/web3-icons/compare/react-web3-icons@v1.52.2...react-web3-icons@v1.53.0) (2026-09-23)
+
+
+### Features
+
+* official arc icon and chain mapping for 5042 ([#15](https://github.com/aave-dao/web3-icons/issues/15)) ([fa64341](https://github.com/aave-dao/web3-icons/commit/fa64341140075beb0674ef19012bc5eeab86b55e))
+
 ## [1.52.2](https://github.com/aave-dao/web3-icons/compare/react-web3-icons@v1.52.1...react-web3-icons@v1.52.2) (2026-06-24)
 
 

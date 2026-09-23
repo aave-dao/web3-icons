@@ -1,6 +1,7 @@
 {
-  "type": ["asset"],
+  "type": ["asset", "chain"],
   "symbol": "arc",
+  "chainId": 5042,
   "name": "Arc",
 
   "aliases": ["ARC"]
